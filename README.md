@@ -4,7 +4,7 @@
 # 使用方法
 ## Podfile导入
 ```
-pod 'ADHNavigationBar', '~> 0.0.6'
+pod 'ADHNavigationBar'
 ```
 ## 配置ADHNavigationBarConfig
 ```
