@@ -8,6 +8,6 @@ pod 'ADHNavigationBar', '~> 0.0.6'
 ```
 ## 配置ADHNavigationBarConfig
 ```
-尽量使用ADHNavigationBarConfig配合ADHNavigationBar的refreshConfigs对导航栏进行设置
+尽量使用ADHNavigationBarConfig配合ADHNavigationBar的refreshConfigs方法对导航栏进行设置
 ```
 
