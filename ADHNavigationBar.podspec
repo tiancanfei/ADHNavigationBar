@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 	s.name         = "ADHNavigationBar"
-	s.version      = "0.0.3"
+	s.version      = "0.0.6"
 	s.summary      = "自定义导航栏"
 	s.description  = <<-DESC
 	                 自定义导航栏，可以精准控制状态栏的颜色，方便实用
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 	s.public_header_files = 'ADHNavigationBar/ADHNavigationBar/*.h'
 	s.resources = ['ADHNavigationBar/ADHNavigationBar/ADHNavigationBar.bundle']
 
-	s.pod_target_xcconfig = { 'VALID_ARCHS[sdk=iphonesimulator*]' => '' }
+	# = { 'VALID_ARCHS[sdk=iphonesimulator*]' => '' }
 
 	s.requires_arc = true
 
