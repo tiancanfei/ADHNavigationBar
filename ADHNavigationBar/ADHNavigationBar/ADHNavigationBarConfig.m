@@ -55,7 +55,7 @@
         }
         self.titleTextColor = [UIColor blackColor];
         self.backgroundColorOfNavigationBar = [UIColor whiteColor];
-        self.backButtonImage = [UIImage imageNamed:@"ADHNavigationBar.bundle/navigation_back_white@2x.png"];
+        self.backButtonImage = [UIImage imageNamed:@"ADHNavigationBar.bundle/navigation_back_black@2x.png"];
     }
 }
 
